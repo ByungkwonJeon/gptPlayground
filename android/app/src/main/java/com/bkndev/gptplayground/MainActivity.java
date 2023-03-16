@@ -1,4 +1,4 @@
-package com.gptplayground;
+package com.bkndev.gptplayground;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

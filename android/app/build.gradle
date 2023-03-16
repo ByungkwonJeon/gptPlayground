@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.gptplayground"
+    namespace "com.bkndev.gptplayground"
     defaultConfig {
-        applicationId "com.gptplayground"
+        applicationId "com.bkndev.gptplayground"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
